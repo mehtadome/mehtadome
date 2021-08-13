@@ -5,7 +5,7 @@
 - Portfolio Website: [Portfolio](https://mehtadome.github.io/)
 - 🌱 I’m currently looking for full-time software engineering jobs.
 - 💬 Ask me about anything, I am always open and honest.
-- 📫 How to reach me: [Reach out to me on LinkedIn!](https://www.linkedin.com/in/ruchir-mehta-55320a153/)
+- 📫 How to reach me: [Find me on LinkedIn!](https://www.linkedin.com/in/ruchir-mehta-55320a153/)
 - ⚡ Fun fact: I am a Diamond in [Rocket League](https://www.rocketleague.com/) 😜
 
 <!--
