@@ -6,7 +6,7 @@
 - 🌱 I’m currently looking for full-time software engineering jobs.
 - 💬 Ask me about anything, I am always open and honest.
 - 📫 How to reach me: [Find me on LinkedIn!](https://www.linkedin.com/in/ruchir-mehta-55320a153/)
-- ⚡ Fun fact: I am a Diamond in [Rocket League](https://www.rocketleague.com/) 😜
+- ⚡ Fun fact: I am a Champion in [Rocket League](https://www.rocketleague.com/) 😜
 
 ### My favorite languages and tools:
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
