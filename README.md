@@ -1,4 +1,4 @@
-## Hello! I am Ruchir Mehta, an aspiring Cloud Consultant specializing in MSFT Azure and SAP. 👋
+## Hello! I am Ruchir Mehta, an aspiring solutions architect specializing in AWS/Azure/LLM design planning. 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-ruchirmehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/ruchir-mehta-55320a153/)
 
