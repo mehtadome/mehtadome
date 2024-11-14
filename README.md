@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ruchirmehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/ruchir-mehta-55320a153/)
 
 - Portfolio Website: [Portfolio](https://mehtadome.github.io/)
-- 🌱 ~~I’m currently looking for full-time software engineering jobs.~~
+- 🌱 I’m currently looking for full-time cloud solutions architecture and software engineering positions.
 - 💬 Ask me about anything, I am always open and honest.
 - 📫 How to reach me: [Find me on LinkedIn!](https://www.linkedin.com/in/ruchir-mehta-55320a153/)
 - ⚡ Fun fact: I am a Champion in [Rocket League](https://www.rocketleague.com/) 😜
