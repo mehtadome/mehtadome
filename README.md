@@ -18,7 +18,7 @@
 | [todo-manager](https://github.com/mehtadome/todo-manager) | Local macOS task manager powered by Claude. Describe what you need in plain English, get back prioritized, numbered tasks. Launches automatically at login. |
 | [email-summarizer](https://github.com/mehtadome/email-summarizer) | Personal inbox triage app — daily email digests with importance scores, so you catch what matters without living in your inbox. |
 | [neo4j-graphrag](https://github.com/mehtadome/neo4j-graphrag) | Marketing attribution GraphRAG demo on Neo4j Aura, built in two phases: a custom Python agent first, then a no-code Aura Console Agent on the same graph. |
-| [Mentoring](https://github.com/mehtadome/Mentoring) | 4+ years of mentoring resources — custom lessons, conceptual questions, and coding problems. Also a SCU CS capstone project judge ('25, '26). |
+| [Mentoring](https://github.com/mehtadome/Mentoring) | 4+ years of mentoring resources — custom lessons, conceptual questions, and coding problems. |
 
 ---
 
